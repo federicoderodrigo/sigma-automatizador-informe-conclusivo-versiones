@@ -2,6 +2,8 @@
   "schemaVersion": 1,
   "latestVersion": "2.5.24",
   "mandatory": true,
+  "packageFileName": "SIGMA Automatizador Informe Conclusivo - v2.5.24.zip",
+  "sha256": "24B7C8DC10AEED30023BD30C163D8D0C298C78DC0D98E09E108C3E13356594F6",
   "downloadUrl": "",
   "message": "Hay una nueva versión obligatoria de SIGMA Automatizador. Descargala desde la carpeta de Google Drive que te compartió el responsable antes de continuar.",
   "publishedAt": "2026-08-27T23:00:00-03:00"

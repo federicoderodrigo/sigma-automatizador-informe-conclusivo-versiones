@@ -18,6 +18,8 @@ documentación de las auditorías.
 5. Mantener `mandatory` en `true` para impedir el uso de versiones distintas.
 6. Completar `downloadUrl` con el enlace público o institucional de Google Drive
    cuando esté disponible.
+7. Publicar en `sha256` la huella SHA-256 del ZIP para poder comprobar que la
+   copia descargada es exactamente la distribución oficial.
 
 Si GitHub no puede consultarse, la aplicación muestra un error y permite volver
 a intentar o cerrar. Esta decisión asegura que no se trabaje sin conocer la
