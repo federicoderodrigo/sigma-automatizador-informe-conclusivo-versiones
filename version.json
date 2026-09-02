@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "latestVersion": "2.5.34",
+  "latestVersion": "2.5.35",
   "mandatory": true,
-  "packageFileName": "SIGMA Automatizador Informe Conclusivo - v2.5.34.zip",
-  "packageSizeBytes": 141562409,
-  "sha256": "CC32838249813FDCD31E6F75981CE32E220BD455479D5349A4C7E2E7EE181CD8",
+  "packageFileName": "SIGMA Automatizador Informe Conclusivo - v2.5.35.zip",
+  "packageSizeBytes": 141491775,
+  "sha256": "8F6C60460548208EF52C48A0C20F3DE9BE3173A1EC05493EF0D51FF1909FF342",
   "downloadUrl": "https://drive.google.com/file/d/1UuxEPoaz4diq5rPcjIiCfaZmjZIA6-Ke/view?usp=sharing",
-  "message": "Hay una nueva versión obligatoria de SIGMA Automatizador. Presioná Descargar última versión, descargá el ZIP completo, descomprimilo en tu computadora y ejecutá el nuevo archivo v2.5.34. No reemplaces solamente el ejecutable.",
-  "publishedAt": "2026-09-01T11:26:40-03:00"
+  "message": "Hay una nueva versión obligatoria de SIGMA Automatizador. Presioná Descargar última versión, descargá el ZIP completo, descomprimilo en tu computadora y ejecutá el nuevo archivo v2.5.35. No reemplaces solamente el ejecutable.",
+  "publishedAt": "2026-09-02T11:23:53-03:00"
 }
